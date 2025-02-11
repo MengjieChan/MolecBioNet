@@ -1,0 +1,222 @@
+DDI_Type	Interaction_Name
+DDI Type 0	The risk or severity of bleeding can be increased when Drug 1 is combined with Drug 2.
+DDI Type 1	The risk or severity of hemorrhage can be increased when Drug 1 is combined with Drug 2.
+DDI Type 2	The therapeutic efficacy of Drug 1 can be decreased when used in combination with Drug 2.
+DDI Type 3	The therapeutic efficacy of Drug 1 can be increased when used in combination with Drug 2.
+DDI Type 4	The risk or severity of bleeding and bruising can be increased when Drug 1 is combined with Drug 2.
+DDI Type 5	The risk or severity of gastrointestinal bleeding can be increased when Drug 1 is combined with Drug 2.
+DDI Type 6	The risk or severity of bleeding and hemorrhage can be increased when Drug 1 is combined with Drug 2.
+DDI Type 7	Drug 1 may increase the anticoagulant activities of Drug 2.
+DDI Type 8	The risk or severity of QTc prolongation can be increased when Drug 1 is combined with Drug 2.
+DDI Type 9	Drug 1 may decrease the excretion rate of Drug 2 which could result in a higher serum level.
+DDI Type 10	The risk or severity of myopathy, rhabdomyolysis, and myoglobinuria can be increased when Drug 1 is combined with Drug 2.
+DDI Type 11	The risk or severity of methemoglobinemia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 12	Drug 1 may decrease effectiveness of Drug 2 as a diagnostic agent.
+DDI Type 13	Drug 1 may increase the QTc-prolonging activities of Drug 2.
+DDI Type 14	The risk or severity of adverse effects can be increased when Drug 1 is combined with Drug 2.
+DDI Type 15	Drug 1 may increase the neuromuscular blocking activities of Drug 2.
+DDI Type 16	The risk or severity of hypertension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 17	Drug 1 may decrease the antihypertensive activities of Drug 2.
+DDI Type 18	The risk or severity of elevated intracranial pressure can be increased when Drug 1 is combined with Drug 2.
+DDI Type 19	Drug 1 may increase the hypertensive activities of Drug 2.
+DDI Type 20	The serum concentration of Drug 1 can be increased when it is combined with Drug 2.
+DDI Type 21	The excretion of Drug 1 can be decreased when combined with Drug 2.
+DDI Type 22	The serum concentration of Drug 1 can be decreased when it is combined with Drug 2.
+DDI Type 23	The metabolism of Drug 1 can be increased when combined with Drug 2.
+DDI Type 24	The metabolism of Drug 1 can be decreased when combined with Drug 2.
+DDI Type 25	The risk or severity of nephrotoxicity can be increased when Drug 1 is combined with Drug 2.
+DDI Type 26	The risk or severity of neuromuscular blockade can be increased when Drug 1 is combined with Drug 2.
+DDI Type 27	Drug 1 may increase the neurotoxic activities of Drug 2.
+DDI Type 28	Drug 1 may increase the nephrotoxic activities of Drug 2.
+DDI Type 29	The risk or severity of nephrotoxicity and hypocalcemia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 30	The risk or severity of renal failure can be increased when Drug 1 is combined with Drug 2.
+DDI Type 31	The risk or severity of hyperkalemia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 32	The excretion of Drug 1 can be increased when combined with Drug 2.
+DDI Type 33	The risk or severity of seizure can be increased when Drug 1 is combined with Drug 2.
+DDI Type 34	The bioavailability of Drug 1 can be decreased when combined with Drug 2.
+DDI Type 35	The risk or severity of immunosuppression can be increased when Drug 1 is combined with Drug 2.
+DDI Type 36	Drug 1 may increase the hepatotoxic activities of Drug 2.
+DDI Type 37	Drug 1 may increase the immunosuppressive activities of Drug 2.
+DDI Type 38	The risk or severity of neutropenia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 39	The risk or severity of myelosuppression can be increased when Drug 1 is combined with Drug 2.
+DDI Type 40	Drug 1 may increase the excretion rate of Drug 2 which could result in a lower serum level and potentially a reduction in efficacy.
+DDI Type 41	The risk or severity of Cardiovascular Impairment can be increased when Drug 1 is combined with Drug 2.
+DDI Type 42	Drug 1 can cause an increase in the absorption of Drug 2 resulting in an increased serum concentration and potentially a worsening of adverse effects.
+DDI Type 43	Drug 1 may increase the antiplatelet activities of Drug 2.
+DDI Type 44	The risk or severity of hypokalemia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 45	The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 46	Drug 1 may increase the photosensitizing activities of Drug 2.
+DDI Type 47	The risk or severity of serotonin syndrome can be increased when Drug 1 is combined with Drug 2.
+DDI Type 48	The risk or severity of CNS depression can be increased when Drug 1 is combined with Drug 2.
+DDI Type 49	Drug 1 may increase the sedative activities of Drug 2.
+DDI Type 50	Drug 1 may increase the serotonergic activities of Drug 2.
+DDI Type 51	Drug 1 may increase the central nervous system depressant (CNS depressant) activities of Drug 2.
+DDI Type 52	The risk or severity of serotonin syndrome and hypomania can be increased when Drug 1 is combined with Drug 2.
+DDI Type 53	The risk or severity of sedation, somnolence, and CNS depression can be increased when Drug 1 is combined with Drug 2.
+DDI Type 54	The risk or severity of sedation can be increased when Drug 1 is combined with Drug 2.
+DDI Type 55	The risk or severity of hypotension, sedation, death, somnolence, and respiratory depression can be increased when Drug 1 is combined with Drug 2.
+DDI Type 56	The risk or severity of hypertension, hyponatremia, and water intoxication can be increased when Drug 1 is combined with Drug 2.
+DDI Type 57	The risk or severity of renal failure and hypertension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 58	The risk or severity of renal failure, hyperkalemia, and hypertension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 59	Drug 1 may increase the neuroexcitatory activities of Drug 2.
+DDI Type 60	The risk or severity of gastrointestinal bleeding and peptic ulcer can be increased when Drug 1 is combined with Drug 2.
+DDI Type 61	The risk or severity of pseudotumor cerebri can be increased when Drug 1 is combined with Drug 2.
+DDI Type 62	The absorption of Drug 1 can be decreased when combined with Drug 2.
+DDI Type 63	The risk or severity of hypoglycemia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 64	Drug 1 may increase the thrombogenic activities of Drug 2.
+DDI Type 65	The risk or severity of myopathy can be increased when Drug 1 is combined with Drug 2.
+DDI Type 66	The risk or severity of myopathy and rhabdomyolysis can be increased when Drug 1 is combined with Drug 2.
+DDI Type 67	The risk or severity of hyponatremia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 68	Drug 1 may increase the fluid retaining and vasopressor activities of Drug 2.
+DDI Type 69	The risk or severity of hypotension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 70	Drug 1 may increase the hypotensive activities of Drug 2.
+DDI Type 71	The risk or severity of angioedema can be increased when Drug 1 is combined with Drug 2.
+DDI Type 72	The risk or severity of renal failure, hypotension, and hyperkalemia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 73	The risk or severity of orthostatic hypotension and syncope can be increased when Drug 1 is combined with Drug 2.
+DDI Type 74	The risk or severity of hypotension and orthostatic hypotension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 75	The risk or severity of orthostatic hypotension and dizziness can be increased when Drug 1 is combined with Drug 2.
+DDI Type 76	The risk or severity of lactic acidosis can be increased when Drug 1 is combined with Drug 2.
+DDI Type 77	The risk or severity of myelosuppression, anemia, and severe leukopenia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 78	Drug 1 may increase the hyperkalemic activities of Drug 2.
+DDI Type 79	The risk or severity of hypotension, nitritoid reactions, facial flushing, nausea, and vomiting can be increased when Drug 1 is combined with Drug 2.
+DDI Type 80	The risk or severity of gastrointestinal irritation can be increased when Drug 1 is combined with Drug 2.
+DDI Type 81	The risk or severity of hyperglycemia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 82	The risk or severity of tendinopathy can be increased when Drug 1 is combined with Drug 2.
+DDI Type 83	Drug 1 may increase the hypokalemic activities of Drug 2.
+DDI Type 84	The risk or severity of electrolyte imbalance can be increased when Drug 1 is combined with Drug 2.
+DDI Type 85	The risk or severity of fluid retention can be increased when Drug 1 is combined with Drug 2.
+DDI Type 86	The risk or severity of gastrointestinal ulceration and gastrointestinal irritation can be increased when Drug 1 is combined with Drug 2.
+DDI Type 87	The risk or severity of ulceration can be increased when Drug 1 is combined with Drug 2.
+DDI Type 88	The risk or severity of CNS depression and hypotonia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 89	The risk or severity of Tachycardia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 90	Drug 1 may decrease the sedative activities of Drug 2.
+DDI Type 91	Drug 1 may increase the analgesic activities of Drug 2.
+DDI Type 92	Drug 1 can cause a decrease in the absorption of Drug 2 resulting in a reduced serum concentration and potentially a decrease in efficacy.
+DDI Type 93	The risk or severity of hypertension can be decreased when Drug 1 is combined with Drug 2.
+DDI Type 94	The risk or severity of sedation and somnolence can be increased when Drug 1 is combined with Drug 2.
+DDI Type 95	Drug 1 may increase the arrhythmogenic activities of Drug 2.
+DDI Type 96	Drug 1 may increase the hypoglycemic activities of Drug 2.
+DDI Type 97	Drug 1 may increase the bradycardic activities of Drug 2.
+DDI Type 98	Drug 1 may increase the vasoconstricting activities of Drug 2.
+DDI Type 99	Drug 1 may increase the orthostatic hypotensive activities of Drug 2.
+DDI Type 100	The risk or severity of ventricular arrhythmias, bradycardia, and heart block can be increased when Drug 1 is combined with Drug 2.
+DDI Type 101	Drug 1 may increase the bronchoconstrictory activities of Drug 2.
+DDI Type 102	The risk or severity of cardiotoxicity can be increased when Drug 1 is combined with Drug 2.
+DDI Type 103	The risk or severity of hypertension and tardive dyskinesia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 104	The risk or severity of hyperthermia and oligohydrosis can be increased when Drug 1 is combined with Drug 2.
+DDI Type 105	The risk or severity of orthostatic hypotension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 106	Drug 1 may increase the anticholinergic activities of Drug 2.
+DDI Type 107	The risk or severity of gastrointestinal ulceration can be increased when Drug 1 is combined with Drug 2.
+DDI Type 108	The risk or severity of urinary retention can be increased when Drug 1 is combined with Drug 2.
+DDI Type 109	The risk or severity of constipation can be increased when Drug 1 is combined with Drug 2.
+DDI Type 110	The risk or severity of liver damage can be increased when Drug 1 is combined with Drug 2.
+DDI Type 111	The risk or severity of thrombocytopenia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 112	The serum concentration of the active metabolites of Drug 1 can be increased when Drug 1 is used in combination with Drug 2.
+DDI Type 113	The risk or severity of QTc prolongation and hypotension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 114	The risk or severity of QTc prolongation and ventricular arrhythmias can be increased when Drug 1 is combined with Drug 2.
+DDI Type 115	The risk or severity of myopathy and weakness can be increased when Drug 1 is combined with Drug 2.
+DDI Type 116	The risk or severity of bradycardia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 117	The risk or severity of Cardiac Arrhythmia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 118	Drug 1 may increase the antihypertensive activities of Drug 2.
+DDI Type 119	The risk or severity of hypotension and syncope can be increased when Drug 1 is combined with Drug 2.
+DDI Type 120	The risk or severity of hypotension and priapism can be increased when Drug 1 is combined with Drug 2.
+DDI Type 121	Drug 1 may increase the antipsychotic activities of Drug 2.
+DDI Type 122	The risk or severity of bleeding and thrombocytopenia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 123	The risk or severity of Tachycardia and drowsiness can be increased when Drug 1 is combined with Drug 2.
+DDI Type 124	The risk or severity of urinary retention and constipation can be increased when Drug 1 is combined with Drug 2.
+DDI Type 125	The risk or severity of urinary retention, reduced gastrointestinal motility, and constipation can be increased when Drug 1 is combined with Drug 2.
+DDI Type 126	Drug 1 may increase the smooth muscle relaxing activities of Drug 2.
+DDI Type 127	Drug 1 may increase the hypertensive and vasoconstricting activities of Drug 2.
+DDI Type 128	Drug 1 may increase the sympathomimetic activities of Drug 2.
+DDI Type 129	Drug 1 may decrease the neuromuscular blocking activities of Drug 2.
+DDI Type 130	The risk or severity of QTc prolongation, torsade de pointes, hypokalemia, hypomagnesemia, and cardiac arrest can be increased when Drug 1 is combined with Drug 2.
+DDI Type 131	The risk or severity of hypocalcemia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 132	The risk or severity of ototoxicity and nephrotoxicity can be increased when Drug 1 is combined with Drug 2.
+DDI Type 133	The risk or severity of dehydration can be increased when Drug 1 is combined with Drug 2.
+DDI Type 134	Drug 1 may increase the vasodilatory activities of Drug 2.
+DDI Type 135	The risk or severity of vasospastic reactions can be increased when Drug 1 is combined with Drug 2.
+DDI Type 136	The risk or severity of reduced gastrointestinal motility can be increased when Drug 1 is combined with Drug 2.
+DDI Type 137	The protein binding of Drug 1 can be decreased when combined with Drug 2.
+DDI Type 138	Drug 1 may increase the cardiodepressant activities of Drug 2.
+DDI Type 139	The risk or severity of bleeding, nephrotoxicity, and gastrointestinal bleeding can be increased when Drug 1 is combined with Drug 2.
+DDI Type 140	The risk or severity of bleeding and gastrointestinal bleeding can be increased when Drug 1 is combined with Drug 2.
+DDI Type 141	The risk or severity of congestive heart failure, bleeding, hypotension, and Tachycardia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 142	Drug 1 may increase the hypotensive and central nervous system depressant (CNS depressant) activities of Drug 2.
+DDI Type 143	Drug 1 may increase the orthostatic hypotensive, hypotensive, and antihypertensive activities of Drug 2.
+DDI Type 144	The bioavailability of Drug 1 can be increased when combined with Drug 2.
+DDI Type 145	The risk or severity of adverse effects can be decreased when Drug 1 is combined with Drug 2.
+DDI Type 146	Drug 1 may decrease the hypoglycemic activities of Drug 2.
+DDI Type 147	The serum concentration of aripiprazole, an active metabolite of Drug 1, can be decreased when used in combination with Drug 2.
+DDI Type 148	Drug 1 may decrease the anticoagulant activities of Drug 2.
+DDI Type 149	The risk or severity of liver enzyme elevations can be increased when Drug 1 is combined with Drug 2.
+DDI Type 150	Drug 1 may increase the arrhythmogenic and cardiotoxic activities of Drug 2.
+DDI Type 151	Drug 1 may decrease the nephrotoxic activities of Drug 2.
+DDI Type 152	The risk or severity of gastrointestinal bleeding and gastrointestinal ulceration can be increased when Drug 1 is combined with Drug 2.
+DDI Type 153	Drug 1 may increase the tachycardic activities of Drug 2.
+DDI Type 154	The risk or severity of myocardial depression can be increased when Drug 1 is combined with Drug 2.
+DDI Type 155	The risk or severity of bronchospasm, shortness of breath, and dyspnea can be increased when Drug 1 is combined with Drug 2.
+DDI Type 156	The risk or severity of granulocytopenia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 157	The risk or severity of hypercalcemia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 158	Drug 1 may increase the Pseudotumor Cerebri activities of Drug 2.
+DDI Type 159	The serum concentration of the active metabolites of Drug 1 can be reduced when Drug 1 is used in combination with Drug 2 resulting in a loss in efficacy.
+DDI Type 160	The risk or severity of hyponatremia and water intoxication can be increased when Drug 1 is combined with Drug 2.
+DDI Type 161	Drug 1 may increase the vasopressor activities of Drug 2.
+DDI Type 162	Drug 1 may increase the hypolipidaemic activities of Drug 2.
+DDI Type 163	Drug 1 may increase the atrioventricular blocking (AV block) activities of Drug 2.
+DDI Type 164	The risk or severity of respiratory depression can be increased when Drug 1 is combined with Drug 2.
+DDI Type 165	The risk or severity of QTc prolongation can be decreased when Drug 1 is combined with Drug 2.
+DDI Type 166	Drug 1 may decrease the fluid retaining and vasopressor activities of Drug 2.
+DDI Type 167	Drug 1 may decrease the hypertensive activities of Drug 2.
+DDI Type 168	Drug 1 may decrease the stimulatory activities of Drug 2.
+DDI Type 169	The risk or severity of hypotension and CNS depression can be increased when Drug 1 is combined with Drug 2.
+DDI Type 170	Drug 1 may decrease the bronchodilatory activities of Drug 2.
+DDI Type 171	The risk or severity of cardiovascular complications can be increased when Drug 1 is combined with Drug 2.
+DDI Type 172	Drug 1 may increase the bradycardic, atrioventricular blocking (AV block), and arrhythmogenic activities of Drug 2.
+DDI Type 173	Drug 1 may decrease the cardiotoxic activities of Drug 2.
+DDI Type 174	The risk of a hypersensitivity reaction to Drug 1 is increased when it is combined with Drug 2.
+DDI Type 175	Drug 1 may increase the uterotonic activities of Drug 2.
+DDI Type 176	The risk or severity of neutropenia and thrombocytopenia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 177	Drug 1 may increase the hypotensive and Electrolyte Disturbance activities of Drug 2.
+DDI Type 178	The risk or severity of Cardiac Arrhythmia and CNS stimulation can be increased when Drug 1 is combined with Drug 2.
+DDI Type 179	The risk or severity of jaw osteonecrosis and anti-angiogenesis can be increased when Drug 1 is combined with Drug 2.
+DDI Type 180	Drug 1 may increase effectiveness of Drug 2 as a diagnostic agent.
+DDI Type 181	Drug 1 may increase the myopathic rhabdomyolysis activities of Drug 2.
+DDI Type 182	Drug 1 may increase the opioid antagonism activities of Drug 2.
+DDI Type 183	Drug 1 may increase the Change in thyroid function activities of Drug 2.
+DDI Type 184	The risk or severity of QTc prolongation and torsade de pointes can be increased when Drug 1 is combined with Drug 2.
+DDI Type 185	The risk or severity of serotonin syndrome and seizure can be increased when Drug 1 is combined with Drug 2.
+DDI Type 186	The risk or severity of extrapyramidal symptoms can be increased when Drug 1 is combined with Drug 2.
+DDI Type 187	The risk or severity of serotonin syndrome and opioid toxicity can be increased when Drug 1 is combined with Drug 2.
+DDI Type 188	Drug 1 may increase the serotonergic and central nervous system depressant (CNS depressant) activities of Drug 2.
+DDI Type 189	Drug 1 may increase the alpha-adrenergic activities of Drug 2.
+DDI Type 190	Drug 1 may decrease the hypotensive activities of Drug 2.
+DDI Type 191	The risk or severity of QTc prolongation, torsade de pointes, and cardiotoxicity can be increased when Drug 1 is combined with Drug 2.
+DDI Type 192	The risk or severity of hypertension and cardiovascular complications can be increased when Drug 1 is combined with Drug 2.
+DDI Type 193	The risk or severity of edema formation can be increased when Drug 1 is combined with Drug 2.
+DDI Type 194	The risk or severity of peripheral neuropathy can be increased when Drug 1 is combined with Drug 2.
+DDI Type 195	The risk or severity of sedation and CNS depression can be increased when Drug 1 is combined with Drug 2.
+DDI Type 196	Drug 1 may increase the diuretic activities of Drug 2.
+DDI Type 197	The risk or severity of renal failure and hypotension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 198	Drug 1 may increase the ototoxic activities of Drug 2.
+DDI Type 199	The risk or severity of osteomalacia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 200	The risk or severity of serotonin syndrome can be decreased when Drug 1 is combined with Drug 2.
+DDI Type 201	The serum concentration of SN-38, an active metabolite of Drug 1, can be increased when used in combination with Drug 2.
+DDI Type 202	The risk or severity of extrapyramidal symptoms and CNS depression can be increased when Drug 1 is combined with Drug 2.
+DDI Type 203	The risk or severity of metabolic acidosis can be increased when Drug 1 is combined with Drug 2.
+DDI Type 204	Drug 1 may increase the hypotensive and vasodilatory activities of Drug 2.
+DDI Type 205	The risk or severity of cytopenia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 206	Drug 1 may increase the atrioventricular blocking (AV block) and arrhythmogenic activities of Drug 2.
+DDI Type 207	Drug 1 may decrease the antiplatelet activities of Drug 2.
+DDI Type 208	The risk or severity of congestive heart failure and hypotension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 209	The risk or severity of electrolyte abnormality can be increased when Drug 1 is combined with Drug 2.
+DDI Type 210	The risk or severity of rhabdomyolysis can be increased when Drug 1 is combined with Drug 2.
+DDI Type 211	The risk or severity of hypertension and Tachycardia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 212	The risk or severity of sedation and orthostatic hypotension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 213	The risk or severity of rhabdomyolysis, myoglobinuria, and elevated creatine kinase (CPK) can be increased when Drug 1 is combined with Drug 2.
+DDI Type 214	The serum concentration of desmethylclomipramine, an active metabolite of Drug 1, can be increased when used in combination with Drug 2.
+DDI Type 215	The serum concentration of dextroamphetamine, an active metabolite of Drug 1, can be increased when used in combination with Drug 2.
+DDI Type 216	Drug 1 may increase the hypercalcemic activities of Drug 2.
+DDI Type 217	The risk or severity of hypotension, hyperkalemia, and reduced intravascular volume can be increased when Drug 1 is combined with Drug 2.
+DDI Type 218	The risk or severity of hypotension, hyperkalemia, and nephrotoxicity can be increased when Drug 1 is combined with Drug 2.
+DDI Type 219	The risk or severity of myopathy and rhabdomyolysis can be decreased when Drug 1 is combined with Drug 2.
+DDI Type 220	The risk or severity of hypersensitivity reaction can be increased when Drug 1 is combined with Drug 2.

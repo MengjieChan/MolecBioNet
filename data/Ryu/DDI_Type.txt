@@ -1,0 +1,87 @@
+DDI_Type	Interaction_Name
+DDI Type 0	Drug 1 may increase the anticoagulant activities of Drug 2.
+DDI Type 1	The therapeutic efficacy of Drug 1 can be decreased when used in combination with Drug 2.
+DDI Type 2	The risk or severity of adverse effects can be increased when Drug 1 is combined with Drug 2.
+DDI Type 3	The metabolism of Drug 1 can be increased when combined with Drug 2.
+DDI Type 4	The risk or severity of bleeding can be increased when Drug 1 is combined with Drug 2.
+DDI Type 5	The serum concentration of Drug 1 can be decreased when it is combined with Drug 2.
+DDI Type 6	Drug 1 may increase the QTc-prolonging activities of Drug 2.
+DDI Type 7	The serum concentration of Drug 1 can be increased when it is combined with Drug 2.
+DDI Type 8	The metabolism of Drug 1 can be decreased when combined with Drug 2.
+DDI Type 9	Drug 1 may increase the neuromuscular blocking activities of Drug 2.
+DDI Type 10	Drug 1 may increase the nephrotoxic activities of Drug 2.
+DDI Type 11	Drug 1 may increase the neurotoxic activities of Drug 2.
+DDI Type 12	Drug 1 may decrease the excretion rate of Drug 2 which could result in a higher serum level.
+DDI Type 13	Drug 1 may increase the immunosuppressive activities of Drug 2.
+DDI Type 14	Drug 1 may increase the bradycardic activities of Drug 2.
+DDI Type 15	Drug 1 may increase the hypoglycemic activities of Drug 2.
+DDI Type 16	Drug 1 may increase the atrioventricular blocking (AV block) activities of Drug 2.
+DDI Type 17	Drug 1 can cause an increase in the absorption of Drug 2 resulting in an increased serum concentration and potentially a worsening of adverse effects.
+DDI Type 18	Drug 1 may increase the photosensitizing activities of Drug 2.
+DDI Type 19	Drug 1 may increase the arrhythmogenic activities of Drug 2.
+DDI Type 20	Drug 1 may increase the serotonergic activities of Drug 2.
+DDI Type 21	Drug 1 may increase the antiplatelet activities of Drug 2.
+DDI Type 22	Drug 1 may increase the myopathic rhabdomyolysis activities of Drug 2.
+DDI Type 23	Drug 1 may increase the neuroexcitatory activities of Drug 2.
+DDI Type 24	The therapeutic efficacy of Drug 1 can be increased when used in combination with Drug 2.
+DDI Type 25	Drug 1 may increase the hyponatremic activities of Drug 2.
+DDI Type 26	Drug 1 may increase the sedative activities of Drug 2.
+DDI Type 27	Drug 1 may increase the central nervous system depressant (CNS depressant) activities of Drug 2.
+DDI Type 28	Drug 1 may decrease effectiveness of Drug 2 as a diagnostic agent.
+DDI Type 29	Drug 1 may increase the hyperkalemic activities of Drug 2.
+DDI Type 30	Drug 1 may increase the hypotensive activities of Drug 2.
+DDI Type 31	Drug 1 may increase the orthostatic hypotensive activities of Drug 2.
+DDI Type 32	Drug 1 may increase the myelosuppressive activities of Drug 2.
+DDI Type 33	Drug 1 may decrease the antihypertensive activities of Drug 2.
+DDI Type 34	Drug 1 may decrease the diuretic activities of Drug 2.
+DDI Type 35	Drug 1 may increase the hypokalemic activities of Drug 2.
+DDI Type 36	Drug 1 may increase the fluid retaining activities of Drug 2.
+DDI Type 37	The bioavailability of Drug 1 can be decreased when combined with Drug 2.
+DDI Type 38	Drug 1 may decrease the sedative activities of Drug 2.
+DDI Type 39	Drug 1 may increase the anticholinergic activities of Drug 2.
+DDI Type 40	Drug 1 may increase the analgesic activities of Drug 2.
+DDI Type 41	Drug 1 may increase the hypertensive activities of Drug 2.
+DDI Type 42	Drug 1 may increase the hypotensive and central nervous system depressant (CNS depressant) activities of Drug 2.
+DDI Type 43	The risk or severity of hypertension can be increased when Drug 1 is combined with Drug 2.
+DDI Type 44	Drug 1 may decrease the bronchodilatory activities of Drug 2.
+DDI Type 45	Drug 1 may increase the vasoconstricting activities of Drug 2.
+DDI Type 46	Drug 1 may increase the bronchoconstrictory activities of Drug 2.
+DDI Type 47	Drug 1 may increase the constipating activities of Drug 2.
+DDI Type 48	The serum concentration of the active metabolites of Drug 1 can be increased when Drug 1 is used in combination with Drug 2.
+DDI Type 49	Drug 1 may decrease the antiplatelet activities of Drug 2.
+DDI Type 50	Drug 1 may increase the antihypertensive activities of Drug 2.
+DDI Type 51	Drug 1 may increase the vasodilatory activities of Drug 2.
+DDI Type 52	The risk or severity of QTc prolongation can be increased when Drug 1 is combined with Drug 2.
+DDI Type 53	Drug 1 may decrease the stimulatory activities of Drug 2.
+DDI Type 54	Drug 1 may increase the antipsychotic activities of Drug 2.
+DDI Type 55	Drug 1 may increase the tachycardic activities of Drug 2.
+DDI Type 56	Drug 1 may increase the ulcerogenic activities of Drug 2.
+DDI Type 57	Drug 1 can cause a decrease in the absorption of Drug 2 resulting in a reduced serum concentration and potentially a decrease in efficacy.
+DDI Type 58	Drug 1 may decrease the neuromuscular blocking activities of Drug 2.
+DDI Type 59	The serum concentration of the active metabolites of Drug 1 can be reduced when Drug 1 is used in combination with Drug 2 resulting in a loss in efficacy.
+DDI Type 60	The protein binding of Drug 1 can be decreased when combined with Drug 2.
+DDI Type 61	Drug 1 may increase the hyperglycemic activities of Drug 2.
+DDI Type 62	Drug 1 may increase the hepatotoxic activities of Drug 2.
+DDI Type 63	The risk or severity of heart failure can be increased when Drug 1 is combined with Drug 2.
+DDI Type 64	Drug 1 may increase the hypercalcemic activities of Drug 2.
+DDI Type 65	The bioavailability of Drug 1 can be increased when combined with Drug 2.
+DDI Type 66	Drug 1 may decrease the anticoagulant activities of Drug 2.
+DDI Type 67	Drug 1 may increase the thrombogenic activities of Drug 2.
+DDI Type 68	Drug 1 may increase the dermatologic adverse activities of Drug 2.
+DDI Type 69	Drug 1 may increase the stimulatory activities of Drug 2.
+DDI Type 70	Drug 1 may increase the vasopressor activities of Drug 2.
+DDI Type 71	Drug 1 may decrease the vasoconstricting activities of Drug 2.
+DDI Type 72	Drug 1 may decrease the analgesic activities of Drug 2.
+DDI Type 73	The risk or severity of hyperkalemia can be increased when Drug 1 is combined with Drug 2.
+DDI Type 74	Drug 1 may increase the respiratory depressant activities of Drug 2.
+DDI Type 75	Drug 1 may increase the hypocalcemic activities of Drug 2.
+DDI Type 76	Drug 1 may increase the ototoxic activities of Drug 2.
+DDI Type 77	Drug 1 may decrease the cardiotoxic activities of Drug 2.
+DDI Type 78	The absorption of Drug 1 can be decreased when combined with Drug 2.
+DDI Type 79	The risk of a hypersensitivity reaction to Drug 1 is increased when it is combined with Drug 2.
+DDI Type 80	Drug 1 may increase the cardiotoxic activities of Drug 2.
+DDI Type 81	Drug 1 may increase the central neurotoxic activities of Drug 2.
+DDI Type 82	Drug 1 may increase the central nervous system depressant (CNS depressant) and hypertensive activities of Drug 2.
+DDI Type 83	Drug 1 may increase the excretion rate of Drug 2 which could result in a lower serum level and potentially a reduction in efficacy.
+DDI Type 84	Drug 1 may increase the adverse neuromuscular activities of Drug 2.
+DDI Type 85	The risk or severity of hypotension can be increased when Drug 1 is combined with Drug 2.
