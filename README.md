@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 To train and evaluate the model, you could run the following command.
 
-- Ryu Dataset
+- Ryu's Dataset
 
 ```bash
 python train.py --dataset 'Ryu' --batch_size 512 --eval_every_iter 225 --alpha 2 --beta 10 --lr 1e-3 --weight_decay_rate 1e-5 --num_epochs 80
