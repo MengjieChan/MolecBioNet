@@ -49,7 +49,7 @@ python train.py --dataset 'DrugBank'  --batch_size 512 --eval_every_iter 489 --a
 ## Supplementary Material
 
 The supplementary material includes related work, detailed descriptions of the datasets, baseline configurations, novel drug experimental setups, ablation study designs, and evaluation metrics.  
-You can access the full document here: [Supplementary_Information_MolecBioNet.pdf](https://github.com/MengjieChan/MolecBioNet/raw/main/Supplementary_Information_MolecBioNet.pdf)
+You can access the full document here: [Supplementary_Information_MolecBioNet.pdf](https://github.com/MengjieChan/MolecBioNet/blob/main/Supplementary_Information_MolecBioNet.pdf)
 
 
 ## Citation
