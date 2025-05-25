@@ -45,6 +45,13 @@ python train.py --dataset 'Ryu' --batch_size 512 --eval_every_iter 225 --alpha 2
 python train.py --dataset 'DrugBank'  --batch_size 512 --eval_every_iter 489 --alpha 2 --beta 10 --lr 1e-3 --weight_decay_rate 1e-5 --num_epochs 80
 ```
 
+
+## Supplementary Material
+
+The supplementary material includes related work, detailed descriptions of the datasets, baseline configurations, novel drug experimental setups, ablation study designs, and evaluation metrics.  
+You can access the full document here: [Supplementary_Material_MolecBioNet.pdf](./Supplementary_Material_MolecBioNet.pdf)
+
+
 ## Citation
 
 Please kindly cite this paper if you find it useful for your research. Thanks!
