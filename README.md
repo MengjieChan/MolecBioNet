@@ -55,3 +55,21 @@ You can access the full document here: [Supplementary_Information_MolecBioNet.pd
 ## Citation
 
 Please kindly cite this paper if you find it useful for your research. Thanks!
+
+```bibtex
+@inproceedings{10.1145/3711896.3737163,
+author = {Chen, Mengjie and Zhang, Ming and Qu, Cunquan},
+title = {Towards Interpretable Drug-Drug Interaction Prediction: A Graph-Based Approach with Molecular and Network-Level Explanations},
+year = {2025},
+isbn = {9798400714542},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3711896.3737163},
+doi = {10.1145/3711896.3737163},
+booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+pages = {203–214},
+numpages = {12},
+location = {Toronto ON, Canada},
+series = {KDD '25}
+}
+```
